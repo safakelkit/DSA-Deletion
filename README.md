@@ -1,4 +1,4 @@
-# DSA-deletion
+# DSA-Deletion
 
 This is a singly linked list which contains a deletion algorithm.
 The user is creating a linked list that includes integers as data.
